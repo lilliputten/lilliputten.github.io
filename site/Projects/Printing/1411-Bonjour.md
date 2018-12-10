@@ -42,9 +42,6 @@ website](https://www.chitalnya.ru/users/Mouse/) (external link, in Russian).
     #  image: covers-outer-layout.jpg
     #  title: Outer cover layout
     -
-      image: covers-inner-layout.jpg
-      title: Inner cover layout
-    -
       image: pages-03-04.jpg
       title: Pages layout 3-4
     -
@@ -83,5 +80,8 @@ website](https://www.chitalnya.ru/users/Mouse/) (external link, in Russian).
     -
       image: pages-27-28.jpg
       title: Pages layout 27-28
+    -
+      image: covers-inner-layout.jpg
+      title: First and last frontispieces
 -->
 
