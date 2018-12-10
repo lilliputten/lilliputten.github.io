@@ -1,6 +1,8 @@
 +++
 tags:
   - 2017
+  - documents
+  - generator
   - javascript
   - jsrtf
   - library
@@ -12,7 +14,7 @@ tags:
   - webpack
 +++
 
-# jsRTF documents generating library
+# jsRTF -- documents generating library
 
 An RTF document creation library for javascript.
 
