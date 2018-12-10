@@ -11,7 +11,7 @@ tags:
 
 All illustrations are drawn specially for this book. You can see other pictures
 drawn by me on the [drawings section](http://lilliputten.ru/Handarbeit/) on the
-old site.
+old site. I think it might be called "naive art".
 
 See the author's page on the [russian writers
 website](https://www.chitalnya.ru/users/Mouse/) (external link, in Russian).
