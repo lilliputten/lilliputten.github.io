@@ -29,7 +29,8 @@ tags:
 
 Online GIS monitoring and control system.
 
-The application was developed during 2016-2018 for the "Vector" engeneering bureau.
+The application was developed during 2016-2018 for the ["Vector" engeneering
+bureau](http://sokb-vektor.ru) (external link, in Russian).
 
 ### The SPA architecture is implemented on the technology stack consists&nbsp;of:
 

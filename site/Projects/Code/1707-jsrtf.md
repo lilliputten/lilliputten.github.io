@@ -18,6 +18,10 @@ tags:
 
 An RTF document creation library for javascript.
 
+Used in Vektor's [Online GIS Monitoring and Control
+System](#/Projects/Interfaces/18xx-vektor-element) for for saving reports in
+printable formats (as well as pdf).
+
 Based on Jonathan Rowny's [node-rtf](https://github.com/jrowny/node-rtf).
 
 Installation
