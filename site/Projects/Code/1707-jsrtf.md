@@ -12,7 +12,7 @@ tags:
   - webpack
 +++
 
-# jsRTF library
+# jsRTF documents generating library
 
 An RTF document creation library for javascript.
 

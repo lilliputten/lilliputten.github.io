@@ -11,7 +11,7 @@ tags:
   - utilities
 +++
 
-# NPM-Launcher npm scripts running utility
+# NPM-Launcher scripts running GUI utility
 
 GUI interface for common **npm scripts** commands (using
 [npm-package-user-scripts-list](https://github.com/lilliputten/npm-package-user-scripts-list)

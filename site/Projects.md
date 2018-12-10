@@ -14,8 +14,8 @@ Below are a few selected projects.
 
 ## Code
 
-- [NPM-Launcher npm scripts running utility](#/Projects/Code/1811-npm-launcher) (2018)
-- [jsRTF library](#/Projects/Code/1707-jsrtf) (2018)
+- [NPM-Launcher scripts running GUI utility](#/Projects/Code/1811-npm-launcher) (2018)
+- [jsRTF documents generating library](#/Projects/Code/1707-jsrtf) (2017)
 
 ## See also
 
