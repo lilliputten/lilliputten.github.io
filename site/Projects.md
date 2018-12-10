@@ -17,6 +17,10 @@ Below are a few selected projects.
 - [NPM-Launcher -- scripts running GUI utility](#/Projects/Code/1811-npm-launcher) (2018)
 - [jsRTF -- documents generating library](#/Projects/Code/1707-jsrtf) (2017)
 
+## Design & Printing
+
+- [Artistically designed book of poems](#/Projects/Printing/1411-Bonjour) (2014)
+
 ## See also
 
 - [This portfolio "pet project"](https://github.com/lilliputten/lilliputten.github.io-v2) (external github repository link, 2018)
