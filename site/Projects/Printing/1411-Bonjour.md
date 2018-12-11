@@ -3,7 +3,8 @@ tags:
   - 2014
   - art
   - design
-  - painting
+  - drawing
+  - artistic
   - printing
 +++
 
