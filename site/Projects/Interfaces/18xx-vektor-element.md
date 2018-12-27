@@ -96,8 +96,8 @@ in the summer of 2018 after two years of development.
 
 ## Links
 
-- Documentation written at the time of project delivering: [lilliputten/vector-docs](https://github.com/lilliputten/vector-docs)
-- Code excerpts (made for future devlopers hiring): [lilliputten/vektor-element-sample-exposures](https://github.com/lilliputten/vektor-element-sample-exposures):
+- Documentation written at the time of project delivering: [lilliputten/vector-docs](https://github.com/lilliputten/vector-docs).
+- Code excerpts (made for future devlopers hiring): [lilliputten/vektor-element-sample-exposures](https://github.com/lilliputten/vektor-element-sample-exposures).
 
 ## System screenshots
 
