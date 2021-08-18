@@ -15,10 +15,10 @@ About
 
 **Birth date:** 1974.
 
-**Brief:** Programmer, frontend developer, designer.
-Last few years have been specializing mainly in JavaScript programming.
+**Brief:** Middle-junior programmer, frontend developer, designer and&nbsp;so&nbsp;on.
+Last few years have been specializing mainly in JavaScript development.
 
-**Current status:** Now working for Moscow-based IT company (see "[Projects](/#/Projects)" section), but still slowly consider interesting proposals.
+**Current status:** Now working as freelancer.
 
 ## Skills
 
@@ -28,7 +28,7 @@ Last few years have been specializing mainly in JavaScript programming.
 
 **Design/layout/tamplating:** HTML5, CSS3, Stylus, LESS, PostCSS, Adaptive/Responsive.
 
-**Programming:** JavaScript (as main specialization; Web, NodeJS), PHP, Python, C++ (sometimes, for personal projects).
+**Programming:** JavaScript (Web, NodeJS), PHP, Python, C++ (sometimes).
 
 **Applied:** Python, JavaScript, PHP, Unix Shell.
 
@@ -48,9 +48,10 @@ Last few years have been specializing mainly in JavaScript programming.
 
 ## Info for HR/potential employers
 
-Slowly (in "background" mode) looking for a new job/projects/proposals. Basically, I consider options
-with step-by-step accessibility from home (Moscow city center) or with the possibility of remote work or with relocation options.
+Looking for a new job (in "background" mode). Basically, I consider options
+with step-by-step accessibility from home (Moscow city center, Sukharevskaya,
+Krasnye Vorota etc) or with the possibility of remote work.
 
 <!--
- @changed 2020.02.08, 14:34
+ @changed 2020.02.07, 13:03
 -->
