@@ -26,7 +26,9 @@ tags:
 
 # Embedded MFU interface, Web administration client, middleware NodeJS server
 
-All projects are developed For Moscow-based company "[GK ARTI](http://arti.ru/)" (PrintXpert division, [ASUPIM](https://arti.ru/management/) project):
+All projects are developed For Moscow-based company "[GK
+ARTI](http://arti.ru/)" (PrintXpert division,
+[ASUPIM](https://arti.ru/management/) project) in 2019-2021:
 
 - Development of embedded interfaces (for limited functionality browsers like
   ANT Galio, WebKit; designed for different resolutions, from minimalistic
