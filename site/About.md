@@ -41,7 +41,7 @@ __Education:__ None (incomplete higher education, Moscow State University, CS fa
 
 __Languages:__ English (intermediate level, technical), Russian (native).
 
-__Interests__: Music (blues harp, CBG), painting, sports, biking, hiking, programming, IT, science.
+__Interests__: Music (blues harp, CBG), painting, sports, biking, skateboarding, hiking, programming, IT, science.
 
 ## See also
 
@@ -54,5 +54,5 @@ Yes, I'm really looking for an interesting new job right now. At the moment, I'm
 - Download <a href="https://raw.githubusercontent.com/lilliputten/lilliputten.github.io/master/site/cv-lilliputten-2022-v1-1-2.pdf" target="_blank">printable CV</a> (pdf, ~50K).
 
 <!--
- @changed 2022.12.08, 16:14
+ @changed 2022.12.08, 16:17
 -->
