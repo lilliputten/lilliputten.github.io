@@ -53,6 +53,8 @@ Yes, I'm really looking for an interesting new job right now. At the moment, I'm
 
 - Download <a href="https://raw.githubusercontent.com/lilliputten/lilliputten.github.io/master/site/cv-lilliputten-2022-v1-1-2.pdf" target="_blank">printable CV</a> (pdf, ~50K).
 
+And, of course, I am against war! Live Ukraine!
+
 <!--
  @changed 2022.12.19, 17:50
 -->
