@@ -27,7 +27,7 @@ __Prototyping:__ Figma, Adobe XD, Photoshop, Illustrator, InDesign.
 
 __Layouting/Styling:__ HTML5, CSS3, Stylus, LESS, SCSS, PostCSS, Tailwind, MUI, Chakra UI, Bootstrap, adaptive/responsive techniques.
 
-__Programming:__ JavaScript (Web, NodeJS -- main specialization), Python.
+__Programming:__ JavaScript (Web, NodeJS, applied; main specialization), Python.
 
 __Applied/Automation:__ Python, JavaScript, PHP (previously), Unix Shell, Powershell.
 
