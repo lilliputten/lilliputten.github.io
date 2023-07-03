@@ -43,7 +43,7 @@ __Interests__: Music (blues harp, CBG), painting, skateboarding, running, biking
 
 ## See also
 
-- Old personal portfolio site (2000-2016, in Russian, not updated): <a href="http://lilliputten.ru" target="_blank">lilliputten.ru</a>.
+- Old personal portfolio site (2000-2016, in Russian, is not updated): <a href="http://lilliputten.ru" target="_blank">lilliputten.ru</a>.
 
 ## Info for HR/potential employers
 
