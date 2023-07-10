@@ -2,9 +2,9 @@
 
 ## Selected projects
 
-Currently I'm working for our own startup project.
+Currently I'm working for our own startup project, 360caster, for interactive museums’ 3D tours platform. _(Using NextJS, mobx, MUI, SCSS, Mediasoup for Video/Audio support, proprietary 3D tools, Eleventhy.)_
 
-Below are a few of current or finished projects.
+Below are a few ongoing or finished projects.
 
 ### Interfaces
 
@@ -40,5 +40,5 @@ Below are a few of current or finished projects.
 - (Old) Personal portfolio site (2000-2016, in Russian, external link): [lilliputten.ru](http://lilliputten.ru)
 
 <!--
- @changed 2023.06.27, 14:24
+ @changed 2023.07.11, 01:39
 -->
