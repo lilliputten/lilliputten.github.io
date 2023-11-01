@@ -9,9 +9,9 @@ Use any of the following methods:
 
 - Github: [github.com/lilliputten](https://github.com/lilliputten)
 - LinkedIn: [linkedin.com/in/lilliputten](http://linkedin.com/in/lilliputten)
-- Gitpages (this site): [lilliputten.github.io](https://lilliputten.github.io)
 
 <!--
+- Gitpages (this site): [lilliputten.github.io](https://lilliputten.github.io)
 - Facebook: [facebook.com/igor.lilliputten](https://facebook.com/igor.lilliputten)
 - Instagram: [instagram.com/igorlilliputten](https://instagram.com/igorlilliputten)
 
