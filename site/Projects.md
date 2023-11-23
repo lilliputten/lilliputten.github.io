@@ -43,10 +43,12 @@ See [repository](https://github.com/lilliputten/peaks-test-project), [demo build
 - ["Pradna" fitness club identity](#/Projects/Identity/12xx-pradna) (2012)
 - [Alford law office logotypes](#/Projects/Identity/0807-alford) (2008)
 
+<!--
 ## See also
 
 - [This portfolio "pet project"](https://github.com/lilliputten/lilliputten.github.io-v2) (external github repository link, 2018)
 - (Old) Personal portfolio site (2000-2016, in Russian, external link): [lilliputten.ru](http://lilliputten.ru)
+-->
 
 <!--
  @changed 2023.11.24, 04:43
