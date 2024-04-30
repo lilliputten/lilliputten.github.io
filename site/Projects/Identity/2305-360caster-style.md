@@ -45,3 +45,4 @@ I've developed a logo, general style and some applied designs, including pretty 
 ## See also
 
 - [360caster MVP web application](#/Projects/Interfaces/2308-360caster-mvp)
+- [Project landing page (external)](https://360caster.com/)
